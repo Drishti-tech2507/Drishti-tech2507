@@ -8,7 +8,7 @@
 <h3 align="center">Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
 
 <div align="center">
-  <a href="www.linkedin.com/in/drishti-chopra-658668313">
+ <a href="https://www.linkedin.com/in/drishti-chopra-658668313/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:drishtic250706@gmail.com">
@@ -26,7 +26,7 @@ I am a passionate developer focused on building impactful digital solutions and 
 - 🌱 I’m currently learning **Advanced React & System Design**
 - 🤝 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, Web Development**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **drishtic250706@gmail.com**
 
 <br/>
 
